@@ -1,3 +1,9 @@
 Instruction for deploying this site to the server
 --------------------------------------------------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+Installation on ISS
+-------------------
+
+Content goes here
